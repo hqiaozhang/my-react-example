@@ -16,5 +16,9 @@ module.exports = {
       test: /\.css$/,
       loader: "style!css" 
     }]
+  },
+  devServer: {
+    inline: true,
+    port: 8002
   }
 };

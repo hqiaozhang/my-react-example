@@ -11,7 +11,7 @@
     "start": "./node_modules/.bin/webpack-dev-server --hot --inline --content-base .",
     "watch": "./node_modules/.bin/webpack--watch",
     "test": ""
-  },
+  }, 
   "dependencies": {
     "react": "^15.0.2",
     "react-dom": "^15.0.2",

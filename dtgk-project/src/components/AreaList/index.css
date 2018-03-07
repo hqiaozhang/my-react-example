@@ -1,0 +1,45 @@
+header .all-area {
+  position: absolute;
+  top: 30px;
+  left: 120px;
+  cursor: pointer;
+  font-size: 45px;
+  z-index: 4;
+}
+header .area-name {
+  background: url('./images/area-list-bg.png') no-repeat;
+  width: 372px;
+  height: 100px;
+  cursor: pointer;
+}
+header .area-name input {
+  width: 215px;
+  padding-left: 5px;
+  border: none;
+  height: 75px;
+  line-height: 75px;
+  margin: 11px 0 0 27px;
+  background: none;
+  font-size: 52px;
+  color: #fff;
+  outline: none;
+  cursor: pointer;
+}
+header .area-list {
+  list-style: none;
+  border: 1px solid #00f9f2;
+  max-height: 320px;
+  overflow-y: auto;
+  position: absolute;
+  top: 100px;
+  background: #0a1265;
+  left: 5px;
+  width: 97%;
+}
+header .area-list  li{
+  padding-left: 32px;
+  background: url('./images/li-bg.png') no-repeat;
+  background-size: 100% 100%;
+  height: 82px;
+  line-height: 82px;
+}

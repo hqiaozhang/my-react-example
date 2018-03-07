@@ -1,0 +1,30 @@
+.out-phone-count {
+  margin-top: 90px;
+  float: left;
+}
+.out-phone-count 
+.phone-count-list {
+  background: url(./images/out-yu-count-bg.png) no-repeat center / 100% 100%;
+  width: 1255px;
+  height: 257;
+}
+
+.out-phone-count .phone-count-list li {
+  width: 550px;
+  height: 255px;
+  padding-right: 30px;
+  margin-left: 25px;
+  float: left;
+  text-align: right;
+  padding: 45px 25px 0 0;
+}
+.out-phone-count .phone-count-list li:nth-child(2) {
+  margin-left: 70px;
+}
+
+.out-phone-count 
+.phone-count-list
+.value {
+  color: #00fefe;
+  font-size: 80px;
+}

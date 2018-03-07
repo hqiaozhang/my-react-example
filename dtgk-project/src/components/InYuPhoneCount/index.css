@@ -1,0 +1,31 @@
+.inyu-phone-count {
+  width: 100%;
+  float: left;
+  margin-top: 120px;
+}
+.phone-count-list {
+  background: url(./images/in-yu-count-bg.png) no-repeat ;
+  float: left;
+  height: 223px;
+  width: 100%;
+  margin-top: 10px;
+}
+.inyu-phone-count .phone-count-list li {
+  float: left;
+  width: 360px;
+  height: 210px;
+  margin-left: 20px;
+  color: #fff;
+  text-align: right;
+  padding: 45px 0px 0 0;
+  list-style: none;
+}
+.value {
+  color: #00fefe;
+}
+.inyu-phone-count .phone-count-list li:nth-child(2) {
+  margin-left: 60px;
+}
+.inyu-phone-count .phone-count-list li:nth-child(3) {
+  margin-left: 70px;
+}

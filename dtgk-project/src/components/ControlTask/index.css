@@ -1,0 +1,27 @@
+.control-task-count {
+  background: url(./images/controlTaskCout-bg.png) no-repeat center / 100% 100%;
+  width: 3066px;
+  height: 355px;
+  position: absolute;
+  bottom: 40px;
+}
+.control-task-count h4{
+  font-weight: normal;
+  padding: 17px 0 0 75px;
+}
+.control-task-count .count-list li {
+  background: url(./images/count-bg.png) no-repeat;
+  width: 258px;
+  height: 167px;
+  margin: 35px 125px 0 45px;
+  font-size: 38px;
+  padding-top: 10px;
+  float: left;
+  text-align: right;
+  padding: 5px 25px 0 0;
+}
+.control-task-count .count-list .value {
+  font-size: 70px;
+  margin-top: 12px;
+  padding-right: 30px;
+}
